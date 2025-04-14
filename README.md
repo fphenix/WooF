@@ -10,10 +10,10 @@ The Wheel of Fortune logos and concept belong to their respective owners.
 
 # Todo
 
-Editable player names
-Final Game (no spin)
-Bonus Game ("RSTLNE")
-Scores and Stats
-Load&Save funtionality
-Multi-language interface and puzzles
-Sound&Music
+* Editable player names
+* Final Game (no spin)
+* Bonus Game ("RSTLNE")
+* Scores and Stats
+* Load&Save funtionality
+* Multi-language interface and puzzles
+* Sound&Music
