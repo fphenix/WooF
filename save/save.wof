@@ -1,5 +1,5 @@
 4                       # Nb players
-['Eme', unicorn, 0]     # Name, avatar, record_tot_money
-['Aym', monster, 0]     # Name, avatar, record_tot_money
-['Pris', mandala, 0]    # Name, avatar, record_tot_money
-['Fred', indiana, 0]    # Name, avatar, record_tot_money
+['Eva', mandala, 0]     # Name, avatar, record_tot_money
+['Jack', monster, 0]    # Name, avatar, record_tot_money
+['Paris', mandala, 0]   # Name, avatar, record_tot_money
+['Fred', monster, 0]    # Name, avatar, record_tot_money
