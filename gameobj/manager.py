@@ -68,10 +68,10 @@ class Manager:
         # TODO : Get it from save file
         # Name, avatar, curr_money, tot_money
         self.players = [
-            Player(0, 'Eme', 'unicorn', self.fonts, self.avatars),
-            Player(1, 'Aym', 'monster', self.fonts, self.avatars),
-            Player(2, 'Pris', 'mandala', self.fonts, self.avatars),
-            Player(3, 'Fred', 'indiana', self.fonts, self.avatars)
+            Player(0, 'Eva', 'mandala', self.fonts, self.avatars),
+            Player(1, 'Jack', 'monster', self.fonts, self.avatars),
+            Player(2, 'Paris', 'mandala', self.fonts, self.avatars),
+            Player(3, 'Fred', 'bee', self.fonts, self.avatars)
         ]
         self.playing = None
 
