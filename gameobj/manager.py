@@ -38,7 +38,6 @@ class Manager:
 
         self.images = {
             'intro_bg': import_img(main_dir, 'Intro.jpg'),
-            'cell': import_img(main_dir, 'cell2.jpg'),
             'bg': import_img(main_dir, 'bg.png'),
             'puzzle': import_img(main_dir, 'puzzle.jpg'),
             'logo': import_img(main_dir, 'Logo.png')
